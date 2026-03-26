@@ -6,10 +6,10 @@ export default defineConfig({
 })
 ```
 
-Ta structure doit être exactement :
+**2. La structure de ton repo est exactement :**
 ```
-flowboard/
-├── vite.config.js   ← à ajouter
+/
+├── vite.config.js
 ├── package.json
 ├── index.html
 └── src/
